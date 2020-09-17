@@ -5,5 +5,6 @@
 	xsi:schemaLocation="http://www.mulesoft.org/schema/mule/core http://www.mulesoft.org/schema/mule/core/current/mule.xsd">
 	<flow name="sapiFlow" doc:id="94eb908b-78df-49c1-b5d5-50bf4fbbdce9" >
 		<logger level="INFO" doc:name="Logger" doc:id="7e013db4-bafb-4e4b-8a20-72e253602969" message="payload"/>
+		<logger level="INFO" doc:name="Logger" doc:id="7c516bc7-b2de-4e4d-8587-94cf090dbf2e" message="payload"/>
 	</flow>
 </mule>
